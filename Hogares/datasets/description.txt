@@ -1,0 +1,25 @@
+DAtaset del Ayuntamiento de Zaragoza referente a información de los hogares
+(https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/2020;jsessionid=5p5bpK5hcy6x4Rn7JV3y6hlZWw2LhQN16xb4nt3SHynzkSgsjGNt!-2052180136)
+
+Indicadores 2020
+
+-M2V: Media en m2 de superficie de vivienda
+-HMC: Media por habitante de m2 disponibles en su vivienda
+-PSH: Personas por hogar
+-PSV: Personas por vivienda
+-V5P: Porcentaje de población que residen en viviendas con 5 personas o más en menos de 90 m2
+-PTV5: Porcentaje de viviendas con menos de 90 m2 de superficie y 5 o más personas
+
+Escala: Juntas, Sección Censal, Zona Básica de Salud
+
+
+Indicadores 2016
+
+-Número de hogares: Número de hogares en cada junta, entendiendo por hogar a las personas residentes en la misma vivienda.
+-Número de hogares unipersonal: Porcentaje de hogares unipersonales de Zaragoza que estan en cada junta.
+-Tamaño medio del hogar: Es el número medio de personas que forman parte de un hogar en un territorio.
+-Hogares personas 25-34 viven solos: Porcentaje de hogares de cada junta en los que viven solos personas entre 25 y 34 años.
+-Hogares personas >65 viven solos: Porcentaje de hogares de cada junta en los que viven solos personas mayores de 65 años.
+-Hogares personas >85 viven solos: Porcentaje de hogares de cada junta en los que viven solos personas mayores de 85 años.
+
+Escala: Juntas
