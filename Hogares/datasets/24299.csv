@@ -1,0 +1,2 @@
+id;emplazamiento;codPortal;codVia;numVia;referenciaCatastral;referenciaMunicipal;poligono;zonaSaturada;comments;actividad;iae;idIAE;idAgrupacion;creationDate;fechaBaja;lastUpdated;estado;licencias;geometry
+"24299";"CALLE SAN MIGUEL, 19 (ZARAGOZA)";"2823";"28720";"19";"6734104XM7163D";"76703,13373";"5";"";"1ºA";"CONFECCION DE PRENDAS DE VESTIR";"IAEId [seccion=1, agrupacion=4, licencia=54]";"1454";"4";2014-09-02T00:00:00Z;"";"";"1";"LicenciaId [expediente=226, anyo=2014]";"676703.0 4613373.0"
